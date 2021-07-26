@@ -16,3 +16,5 @@ v2ray安卓客户端：https://github.com/2dust/v2rayNG/releases/tag/1.6.15
 PC客户端：https://github.com/2dust/v2rayN/releases
 
 免翻墙电报：https://github.com/NekoX-Dev/NekoX/releases
+
+免费windows远程桌面（不许安装软件瞎搞）德国甲骨文：129.159.248.226 用户名：1  没有密码
