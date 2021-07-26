@@ -14,3 +14,5 @@
 v2ray安卓客户端：https://github.com/2dust/v2rayNG/releases/tag/1.6.15
 
 PC客户端：https://github.com/2dust/v2rayN/releases
+
+免翻墙电报：https://github.com/NekoX-Dev/NekoX/releases
