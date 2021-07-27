@@ -2,6 +2,7 @@
 节点分享
 #v2ray节点订阅链接：https://list.oracleusa.ml/
 
+节点代理池(不保证速度)：https://gfwglass.tk/
 
 #反代理网站：https://oracleusa.ml/
 
