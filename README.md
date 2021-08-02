@@ -16,7 +16,7 @@ https://gfwglass.tk/
 
 https://oracleusa.ml/
 
-科学上网[集合](https://vps.antigfwjp.tk/?/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/)
+
 
 ②**无审查新闻推荐**
 
@@ -38,10 +38,9 @@ vjppz33@163.com
 
 密码：Gongyongid114514
 
-v2ray安卓[客户端]( https://github.com/2dust/v2rayNG/releases/tag/1.6.15 ）
+# 工具
 
-PC[客户端](https://github.com/2dust/v2rayN/releases)
-
+科学上网[集合](https://vps.antigfwjp.tk/?/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/)
 
 免翻墙[电报](https://github.com/NekoX-Dev/NekoX/releases)
 
