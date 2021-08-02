@@ -16,6 +16,8 @@ https://gfwglass.tk/
 
 https://oracleusa.ml/
 
+科学上网集合：https://vps.antigfwjp.tk/?/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/
+
 ②**无审查新闻推荐**
 
 端点星项目：https://terminus2049.github.io/
