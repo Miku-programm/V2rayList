@@ -23,12 +23,20 @@ https://oracleusa.ml/
 端点星项目：https://terminus2049.github.io/
 
 GreatFire项目：https://zh.greatfire.org/
+
+免翻查看[链接](https://oracleusa.ml/-----https://zh.greatfire.org/)
  
 墙与书：https://wallsandbooks.wordpress.com/
 
+免翻查看[链接](https://oracleusa.ml/-----https://wallsandbooks.wordpress.com/)
+
 自由微博：https://freeweibo.com/
 
+免翻查看[链接](https://oracleusa.ml/-----https://freeweibo.com/)
+
 中国数字时代：https://chinadigitaltimes.net/chinese/
+
+免翻查看[链接](https://oracleusa.ml/-----https://chinadigitaltimes.net/chinese/)
 
 
 # 苹果翻墙软件下载id
