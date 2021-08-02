@@ -1,12 +1,20 @@
 
-# v2ray节点订阅链接：https://list.oracleusa.ml/
+# v2ray节点订阅链接：
 
-节点代理池(不保证速度)：https://gfwglass.tk/
+https://list.oracleusa.ml/
 
-# 反代理网站：https://oracleusa.ml/
+节点代理池(不保证速度)：
+
+https://gfwglass.tk/
+
+# 反代理网站：
+
+https://oracleusa.ml/
 
 
-# 苹果翻墙软件下载id：vjppz33@163.com
+# 苹果翻墙软件下载id：
+
+vjppz33@163.com
 （仅登入应用商店，登入其他后果自负）
 
 密码：Gongyongid114514
