@@ -2,7 +2,7 @@
 
 #链接导航：
 
-# v2ray节点订阅链接：
+##v2ray节点订阅链接：
 
 https://list.oracleusa.ml/
 
@@ -22,11 +22,12 @@ vjppz33@163.com
 
 密码：Gongyongid114514
 
-v2ray安卓[客户端]（https://github.com/2dust/v2rayNG/releases/tag/1.6.15）
+v2ray安卓[客户端]https://github.com/2dust/v2rayNG/releases/tag/1.6.15）
 
-PC[客户端] (https://github.com/2dust/v2rayN/releases)
+PC[客户端](https://github.com/2dust/v2rayN/releases)
 
-免翻墙[电报] (https://github.com/NekoX-Dev/NekoX/releases)
+免翻墙[电报](https://github.com/NekoX-Dev/NekoX/releases)
+
 
 # 免费windows远程桌面
 （不许安装软件瞎搞）德国甲骨文
