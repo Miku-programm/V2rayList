@@ -38,6 +38,7 @@ GreatFire项目：https://zh.greatfire.org/
 
 免翻查看[链接](https://oracleusa.ml/-----https://chinadigitaltimes.net/chinese/)
 
+**提醒：本项目不保证以上网站中信息的真实性，请自我甄别**
 
 # 苹果翻墙软件下载id
 
