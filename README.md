@@ -12,7 +12,7 @@ https://gfwglass.tk/
 https://oracleusa.ml/
 
 
-# 苹果翻墙软件下载id：
+# 苹果翻墙软件下载id
 
 vjppz33@163.com
 （仅登入应用商店，登入其他后果自负）
