@@ -38,7 +38,7 @@ vjppz33@163.com
 
 密码：Gongyongid114514
 
-v2ray安卓[客户端](https://github.com/2dust/v2rayNG/releases/tag/1.6.15）
+v2ray安卓[客户端]( https://github.com/2dust/v2rayNG/releases/tag/1.6.15 ）
 
 PC[客户端](https://github.com/2dust/v2rayN/releases)
 
