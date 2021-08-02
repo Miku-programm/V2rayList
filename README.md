@@ -1,8 +1,10 @@
 # 本项目是免费的翻墙上网项目，励志于推进中国的互联网信息透明与开放，若你有什么好的意见，请在issues页面评论区中提出
 
-#链接导航：
+# 链接导航：
 
-##v2ray节点订阅链接：
+①**本项目节点链接以及反代理**
+
+v2ray节点订阅链接：
 
 https://list.oracleusa.ml/
 
@@ -10,10 +12,11 @@ https://list.oracleusa.ml/
 
 https://gfwglass.tk/
 
-# 反代理网站：
+反代理网站：
 
 https://oracleusa.ml/
 
+端点星项目：https://terminus2049.github.io/
 
 # 苹果翻墙软件下载id
 
