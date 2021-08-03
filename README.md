@@ -1,4 +1,3 @@
-# 本项目是免费的翻墙上网项目，励志于推进中国的互联网信息透明与开放，若你有什么好的意见，请在issues页面评论区中提出
 
 [![GitHub stars](https://img.shields.io/github/stars/Miku-programm/V2rayList?style=flat-square)](https://github.com/Miku-programm/V2rayList/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Miku-programm/V2rayList?style=flat-square)](https://github.com/Miku-programm/V2rayList/network)
