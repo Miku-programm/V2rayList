@@ -57,9 +57,3 @@ vjppz33@163.com
 免翻墙[电报](https://github.com/NekoX-Dev/NekoX/releases)
 
 
-
-# 免费windows远程桌面
-（不许安装软件瞎搞）德国甲骨文
-129.159.248.226 
-用户名：1  
-密码：没有密码（留空即可）
