@@ -43,6 +43,16 @@ GreatFire项目：https://zh.greatfire.org/
 
 **提醒：本项目不保证以上网站中信息的真实性，请自我甄别**
 
+**免翻墙外社交视频网站**
+
+YouTube: https://docs.invidious.io/Invidious-Instances.md(里面任意选一镜像打开)
+
+Instagram：https://bibliogram.art/
+
+Twitter：https://github.com/zedeus/nitter/wiki/Instances(里面任意选一镜像打开)
+
+
+
 # 苹果翻墙软件下载id
 
 vjppz33@163.com
