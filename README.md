@@ -51,6 +51,7 @@ Instagram：https://bibliogram.art/
 
 Twitter：https://github.com/zedeus/nitter/wiki/Instances(里面任意选一镜像打开)
 
+以上网站安卓版：https://f-droid.org/packages/app.fedilab.nitterizeme/
 
 
 # 苹果翻墙软件下载id
