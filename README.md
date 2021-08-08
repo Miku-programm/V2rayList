@@ -25,6 +25,8 @@ https://oracleusa.ml/
 
 端点星项目：https://terminus2049.github.io/
 
+免翻查看[链接](https://oracleusa.ml/-----https://terminus2049.github.io/)
+
 GreatFire项目：https://zh.greatfire.org/
 
 免翻查看[链接](https://oracleusa.ml/-----https://zh.greatfire.org/)
