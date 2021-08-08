@@ -37,7 +37,7 @@ GreatFire项目：https://zh.greatfire.org/
 
 自由微信：https://freewechat.com/
 
-免翻[链接](https://oracleusa.ml/-----https://freewechat.com/)
+免翻查看[链接](https://oracleusa.ml/-----https://freewechat.com/)
 
 自由微博：https://freeweibo.com/
 
