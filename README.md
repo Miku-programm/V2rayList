@@ -51,11 +51,11 @@ GreatFire项目：https://zh.greatfire.org/
 
 **免翻墙外社交视频网站**
 
-YouTube: https://docs.invidious.io/Invidious-Instances.md(里面任意选一镜像打开)
+YouTube: https://docs.invidious.io/Invidious-Instances.md (里面任意选一镜像打开)
 
 Instagram：https://bibliogram.art/
 
-Twitter：https://github.com/zedeus/nitter/wiki/Instances(里面任意选一镜像打开)
+Twitter：https://github.com/zedeus/nitter/wiki/Instances (里面任意选一镜像打开)
 
 以上网站安卓版：https://f-droid.org/packages/app.fedilab.nitterizeme/
 
