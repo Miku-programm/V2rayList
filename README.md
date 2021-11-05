@@ -9,7 +9,7 @@
 
 v2ray节点订阅链接：
 
-https://list.oracleusa.ml/
+https://list.oracleusa.ml/  （请勿用节点下载bt，否则亲妈暴毙！）
 
 节点代理池(不保证速度)：
 
