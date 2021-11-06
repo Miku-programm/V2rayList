@@ -11,6 +11,8 @@ v2ray节点订阅链接：
 
 https://list.oracleusa.ml/  （不要用节点下载bt，否则亲妈暴毙！！！）
 
+[服务器探针面板](https://vps.gfwglass.tk/)
+
 节点代理池(不保证速度)：
 
 https://gfwglass.tk/
