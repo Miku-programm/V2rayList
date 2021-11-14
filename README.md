@@ -21,6 +21,10 @@ https://gfwglass.tk/
 
 https://oracleusa.ml/
 
+反代理网站2：
+
+https://go.oracleusa.ml/
+
 
 
 ②**无审查新闻推荐**
@@ -50,6 +54,10 @@ GreatFire项目：https://zh.greatfire.org/
 免翻查看[链接](https://oracleusa.ml/-----https://chinadigitaltimes.net/chinese/)
 
 **提醒：本项目不保证以上网站中信息的真实性，请自我甄别**
+
+**提醒:在访问不明确网站前，请使用网站在线截图进行预览**
+[在线截图1](https://fullpagescreencapture.com/)
+[在线截图2](https://www.toolnb.com/tools/webjietu.html)
 
 **免翻墙外社交视频网站**
 
