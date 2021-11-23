@@ -7,9 +7,15 @@
 
 ①**本项目节点链接以及反代理**
 
-v2ray节点订阅链接：
+v2ray节点免费机场:
 
-https://list.oracleusa.ml/  （不要用节点下载bt，否则亲妈暴毙！！！）
+ https://sspanel.oracleusa.ml/
+ 
+ 电报机器人：@v2boardIbot
+ 
+ v2ray订阅链接（原来的已迁至机场，这个节点有点特殊，暂时不迁移了）
+
+https://list.oracleusa.ml/  
 
 [服务器探针面板](https://vps.gfwglass.tk/)
 
