@@ -11,6 +11,8 @@ v2ray节点免费机场:
 
  https://sspanel.oracleusa.ml/
  
+ 注册邀请码：7V4HmioV（可循环）
+ 
  电报机器人：@v2boardIbot
  
  v2ray订阅链接（原来的已迁至机场，这个节点有点特殊，暂时不迁移了）
