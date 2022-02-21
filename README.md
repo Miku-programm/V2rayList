@@ -7,6 +7,8 @@
 
 ①**本项目节点链接以及反代理**
 
+科学上网导航：https://102498.xyz
+
 v2ray节点免费机场:
 
  https://sspanel.oracleusa.ml/
