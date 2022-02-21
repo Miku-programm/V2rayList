@@ -85,7 +85,7 @@ vjppz33@163.com
 
 **提示:仅登入应用商店，登入其他后果自负,节点代理池中的Clash订阅链接可用Pharos订阅使用，若公用账号被锁，可在issues页面反馈**
 
-密码：Gongyongid114514
+密码：GongYongid114514
 
 # 工具
 
