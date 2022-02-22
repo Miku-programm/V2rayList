@@ -7,7 +7,11 @@
 
 ①**本项目节点链接以及反代理**
 
-科学上网导航：https://102498.xyz
+科学上网导航：
+
+https://102498.xyz
+
+notion版：https://crimson-waterfall-2fd.notion.site/Notion-c69fc11682dd47d3a5b9f90dd0d45d9f
 
 v2ray节点免费机场:
 
@@ -94,5 +98,4 @@ vjppz33@163.com
 科学上网[集合](https://vps.antigfwjp.tk/?/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/)
 
 免翻墙[电报](https://github.com/NekoX-Dev/NekoX/releases)
-
 
