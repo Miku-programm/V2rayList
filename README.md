@@ -18,13 +18,10 @@ v2ray节点免费机场:
  https://sspanel.oracleusa.ml/
  
 
- 电报机器人：@v2boardIbot
- 
- v2ray订阅链接（原来的已迁至机场，这个节点有点特殊，暂时不迁移了）
+ 电报群：https://t.me/v2raygrup
+  
 
-https://list.oracleusa.ml/  
-
-[服务器探针面板](https://vps.gfwglass.tk/)
+[服务器探针面板](https://tz.102498.xyz/)
 
 节点代理池(不保证速度)：
 
@@ -87,11 +84,7 @@ Twitter：https://github.com/zedeus/nitter/wiki/Instances (里面任意选一镜
 
 # 苹果翻墙软件下载id
 
-vjppz33@163.com
-
-**提示:仅登入应用商店，登入其他后果自负,节点代理池中的Clash订阅链接可用Pharos订阅使用，若公用账号被锁，可在issues页面反馈**
-
-密码：GongYongid114514
+**请到本项目免费机场注册用户后获取**
 
 # 工具
 
