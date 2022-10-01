@@ -13,15 +13,6 @@ https://102498.xyz
 
 notion版：https://crimson-waterfall-2fd.notion.site/Notion-c69fc11682dd47d3a5b9f90dd0d45d9f
 
-v2ray节点免费机场:
-
- https://sspanel.oracleusa.ml/
- 
-
- 电报群：https://t.me/v2raygrup
-  
-
-[服务器探针面板](https://tz.102498.xyz/)
 
 节点代理池(不保证速度)：
 
